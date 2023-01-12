@@ -13,6 +13,6 @@ And black for all of the others.
 
 We can see that in fact there has been a decrease in the duration of the movies throughout the years. It would be interesting to add countries to the graphic to see in which of them the duration of the movies has decreased the most, and investigate why that could have happened.
 
-As this is my first project, I reckon there is a lot to improve, but I am happy with the result that I got from performing a simple first analysis.
+As this is my first project, I recognise there is a lot to improve, but I am happy with the result that I got from performing a simple first analysis.
 
 Feedback is welcome! :)
